@@ -1,5 +1,7 @@
 # TL-Model
 - Feature Engineering
-- Algorithm Choosing
+- Algorithm Selection
 *GATL*
 **Validation**
+## Scoring model
+### Target Default

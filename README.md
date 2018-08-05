@@ -1,3 +1,5 @@
 # TL-Model
-## Feature Engineering
-## Algorithm Choosing
+- Feature Engineering
+- Algorithm Choosing
+*GATL*
+**Validation**
